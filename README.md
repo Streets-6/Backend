@@ -24,4 +24,4 @@
 * Добавить существующие модели в админку
 * Создать API для взаимодействия с frontend
 
-#### Авторы: [BeerBellyWell]https://github.com/BeerBellyWell "https://github.com/BeerBellyWell"), [VladisloveRus](https://github.com/VladisloveRus "https://github.com/VladisloveRus")
+#### Авторы: [BeerBellyWell](https://github.com/BeerBellyWell "https://github.com/BeerBellyWell"), [VladisloveRus](https://github.com/VladisloveRus "https://github.com/VladisloveRus")
